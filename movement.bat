@@ -43,7 +43,6 @@ set "head=@"
   set "prevChoice=d"
 
   :: sets length to the previous variable length plus a space
-  :: the carrot sign is used to "escape" the space
   set "x= %x%"
 
   :: go back to the main gameloop
